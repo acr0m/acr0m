@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning cybersecurity
-- ⚡ Fun fact: as a child I was robbed of some Smarties by a Macaque
+- ⚡ Fun fact: A Macaque once stole my snack
   
 <!--
 **amycrom/amycrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
